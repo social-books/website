@@ -1,0 +1,4 @@
+[submodule "themes/vex-hugo"]
+	path = themes/vex-hugo
+	url = https://github.com/social-books/vex-hugo.git
+	branch = modified
