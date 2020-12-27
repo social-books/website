@@ -1,0 +1,11 @@
+- id: "add_to_cart"
+  translation: "Añadir al carrito"
+  
+- id: "send"
+  translation: "Enviar"
+  
+- id: "subscribe"
+  translation: "Subscribirse"
+  
+- id: "read_more"
+  translation: "Más info"
