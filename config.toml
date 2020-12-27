@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://social-books.github.io/"
+baseurl = "https://social-books.github.io/"
 title = "SocialBooks | Libros con temática social"
 theme = "vex-hugo"
 publishDir = "social-books.github.io"
