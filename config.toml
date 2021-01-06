@@ -64,9 +64,15 @@ url = "testimonial"
 weight = 4
 
 [[menu.main]]
+name = "Quienes Somos"
+pre = "#"
+url = "authors"
+weight = 5
+
+[[menu.main]]
 name = "Contáctenos"
 url = "contact"
-weight = 5
+weight = 6
 
 # footer menu
 [[menu.footer]]
@@ -107,7 +113,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 # Preloader
 [params.preloader]
 enable = true
-preloader = ".gif" # use .png , .svg or .gif format
+preloader = "preloader.gif" # use .png , .svg or .gif format
 
 # Subscription
 [params.subscription]
