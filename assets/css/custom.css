@@ -16,3 +16,8 @@
 .bg-orange {
     background: #FF914D;
 }
+
+p {
+    font-size: 20px;
+    line-height: 25px;
+}

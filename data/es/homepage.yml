@@ -21,7 +21,7 @@ main:
   button:
    enable : true
    label : "Más información"
-   link : "#"
+   link : "books/enzo"
 
 ############################# Feature ############################
 features:
@@ -33,7 +33,7 @@ about_product:
 
 ############################# Body #######################
 body:
-  enable : true
+  enable : false
   title : "Enzo y su historia"
   image : "images/enzo2.png"
   content : "A través de su nobleza, solidaridad e inocencia, nos acerca a distintas realidades sociales y nos enseña diferentes valores.
@@ -42,7 +42,7 @@ body:
 
 ############################# promo ############################
 promo:
-  enable : true
+  enable : false
   image : "images/enzo.png"
   title : "¿Cómo puedo conocer a Enzo?"
   content : "Por el momento no disponemos de una tienda online, pero si distintos métodos para conseguir el libro. 
@@ -65,7 +65,7 @@ products:
 subscription:
   enable : true
   bg_image : "images/background.jpg"
-  title : "Contácte con nosotros para conocer a Enzo"
+  title : ""
   content : "Subcribase para recibir todas las novedades, nuevos puntos de venta etcetera.."
   placeholder : "info@socialbooks.es"
 
