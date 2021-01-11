@@ -24,6 +24,8 @@ link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themefisher-font/themefisher-font.min.css"
 [[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
 #[[params.plugins.css]]
 #link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
@@ -71,6 +73,7 @@ weight = 5
 
 [[menu.main]]
 name = "Contáctenos"
+pre = "#"
 url = "contact"
 weight = 6
 
@@ -80,10 +83,10 @@ name = "Blog"
 url = "blog"
 weight = 1
 
-[[menu.footer]]
-name = "Contáctenos"
-url = "contact"
-weight = 2
+# [[menu.footer]]
+# name = "Contáctenos"
+# url = "contact"
+# weight = 2
 
 #[[menu.footer]]
 #name = "Terminos & Condicions"
@@ -95,6 +98,19 @@ weight = 2
 #url = "privacy-policy"
 #weight = 4
 
+
+# social sites
+[[params.social]]
+icon = "ti-facebook"
+account = "https://www.facebook.com/SocialBookss"
+
+[[params.social]]
+icon = "ti-instagram"
+account = "https://www.instagram.com/social_books"
+
+[[params.social]]
+icon = "ti-twitter-alt"
+account = "https://twitter.com/Social_Books_"
 
 ########################### Default parameters ##########################
 [params]

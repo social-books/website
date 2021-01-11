@@ -62,7 +62,7 @@ products:
 
 
 ################################## Subscription ###################
-subscription:
+contact:
   enable : true
   bg_image : "images/background.jpg"
   title : ""
