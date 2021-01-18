@@ -3,7 +3,7 @@ body:
   enable : true
   title : "Enzo y su historia"
   image : "images/enzo2.jpg"
-  content : "Refleja la realidad de la sociedad de una forma amable y que haga reflexionar y pensar tanto a población infantil, como adulta,
+  content : "Refleja la realidad de la sociedad de una forma amable y que haga reflexionar y pensar tanto a población infantil, como adulta.
 <br></br>
 Sus personajes rompen los clichés o estereotipos que generalmente siempre han existido en la literatura infantil.
 <br></br>
