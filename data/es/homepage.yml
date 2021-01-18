@@ -2,9 +2,9 @@
 banner:
   enable : true
   title : "Social Books"
-  content : "Canal de difusión para recomendar libros que transmitan valores y fomentar la lectura sobre temática social.
-Proyecto creado por dos profesionales del Trabajo Social.
-Desde Social Books hemos realizado un proyecto propio, el libro “***Descubriendo a Enzo***”."
+  content : "Canal de difusión para recomendar libros que transmitan valores y fomentar la lectura sobre temática social.Proyecto creado por dos profesionales del Trabajo Social.
+<br></br>
+Desde Social Books hemos realizado un proyecto propio, “***Descubriendo a Enzo***”."
   image : "images/social_books.jpg"
 #  button:
 #   enable : true
@@ -76,22 +76,34 @@ testimonial:
   title : "Reviews"
   testimonial_item:
     # testimonial item loop
-    - name : "Jonathon Andrew"
+    - name : "Beatriz L."
       designation : "CEO, Themefisher"
       image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
+      content : "Un libro maravilloso, lleno de historias muy reales que hace que desde el minuto uno que empiezas a leer Enzo ya forme parte de tu vida. Mostrando la realidad de la sociedad de una manera real, pero al mismo tiempo adaptada.<br></br>Creo que libros como Descubriendo a Enzo son una verdadera maravilla que a medida que vas leyendo te hace reflexionar y pensar sobre muchas cosas."
+
     # testimonial item loop
-    - name : "Jonathon Andrew"
+    - name : "Marina B."
       designation : "CEO, Themefisher"
       image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
+      content : "Me encanta la diversidad que se tratan en el libro."
+
     # testimonial item loop
-    - name : "Jonathon Andrew"
+    - name : "Jessica J."
       designation : "CEO, Themefisher"
       image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content : "Como un pequeño de nueve años consigue conquistarte en cada página. Espero que Enzo llegue al corazón de mucha gente, y que consiga llevarles hacia la empatía, el respeto y la igualdad."
+
+      # testimonial item loop
+    - name : "Joaquín R."
+      designation : "CEO, Themefisher"
+      image : "images/avater.png"
+      content : "Me encanta el personaje de Emilia. Me ha fascinado el personaje del abuelo, por los lazos que crean entre ellos."
+
+    # testimonial item loop
+    - name : "Paqui C."
+      designation : "CEO, Themefisher"
+      image : "images/avater.png"
+      content : "Me ha encantado, no solo por lo bien contando, también por los mensajes que deja y además las ilustraciones son chulísimas. ¡Enhorabuena!"
 
 ############################## Authors ##########################
 
