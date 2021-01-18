@@ -3,7 +3,7 @@ body:
   enable : true
   title : "Enzo y su historia"
   image : "images/enzo2.jpg"
-  content : "Refleja la realidad de la sociedad de una forma amable y que haga reflexionar y pensar tanto a población infantil, como adulta
+  content : "Refleja la realidad de la sociedad de una forma amable y que haga reflexionar y pensar tanto a población infantil, como adulta,
 <br></br>
 Sus personajes rompen los clichés o estereotipos que generalmente siempre han existido en la literatura infantil.
 <br></br>
@@ -13,7 +13,7 @@ Entre los temas que se destacan: las personas con discapacidad, la realidad de l
 
 sinopsis:
   enable: true  
-  image : "images/portada.png"
+  image : "images/libros.jpg"
   title : "Sinopsis"
   content: "**Descubriendo a Enzo** es un conjunto de historias que relata, en pequeños capítulos, la vida cotidiana de un niño de 9 años, de su familia y de sus amigas y amigos, con la particularidad de tratar temas que no son habituales en la literatura infantil, como las personas con discapacidad, la realidad de las personas mayores, los desahucios o gente privada de su libertad, por lo que resulta una experiencia útil, novedosa y educativa para el público infantil. 
 <br></br>

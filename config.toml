@@ -122,7 +122,7 @@ author = "SocialBooks"
 # currency
 currency = "€"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mgepdvkq" # contact form works with https://formspree.io
 # snipcart public api key
 #snipcart_api = ""
 
