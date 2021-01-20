@@ -1,5 +1,5 @@
 .section {
-    padding: 40px 0;
+    padding: 60px 0;
 }
 
 #contact {
@@ -44,4 +44,18 @@ p {
 
 .media p{
     font-weight: bold;
+}
+
+.testimonial-sites{
+    margin-top: 60px;
+}
+
+.testimonial-site-link a {
+    margin-bottom: 10px;
+}
+
+.testimonial-site-text h4 {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
 }

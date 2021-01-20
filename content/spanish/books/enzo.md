@@ -3,7 +3,7 @@ body:
   enable : true
   title : "Enzo y su historia"
   image : "images/enzo2.jpg"
-  content : "Refleja la realidad de la sociedad de una forma amable y que haga reflexionar y pensar tanto a población infantil, como adulta.
+  content : "Refleja la realidad de la sociedad de una forma amable haciendo reflexionar y pensar tanto a población infantil, como adulta.
 <br></br>
 Sus personajes rompen los clichés o estereotipos que generalmente siempre han existido en la literatura infantil.
 <br></br>
@@ -45,27 +45,27 @@ specs:
   enable: true
   title: "Ficha técnica"
   left_side:
-  - key : "**Título:**"
+  - key : "**Título**"
     value : "Descubriendo a Enzo"
-  - key : "**Autor (es):**"
+  - key : "**Autor (es)**"
     value : "David Caracuel Ruiz; Darío Hidalgo Domínguez, Juanjo Jiménez González (il.)"
-  - key : "**Precio con IVA:**"
+  - key : "**Precio con IVA**"
     value : "14.,95 €"
-  - key : "**Fecha publicación:**"
+  - key : "**Fecha publicación**"
     value : "12/2020"
-  - key : "**Idioma:**"
+  - key : "**Idioma**"
     value : "Español"
 
   right_side:
-  - key : "**Formato, páginas:**"
+  - key : "**Formato, páginas**"
     value : "Tapa blanda con solapas, 108"
-  - key : "**Medidas:**"
+  - key : "**Medidas**"
     value : "220 X 150 mm"
-  - key : "**ISBN:**"
+  - key : "**ISBN**"
     value : "9788418438448"
-  - key : "**Temáticas:**"
+  - key : "**Temáticas**"
     value : "Cuestiones Personales Y Sociales"
-  - key : "**Edad recomendada:**"
+  - key : "**Edad recomendada**"
     value : "A partir de 9 años"
 
 ---

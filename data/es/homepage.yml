@@ -85,7 +85,7 @@ testimonial:
     - name : "Marina B."
       designation : "CEO, Themefisher"
       image : "images/avater.png"
-      content : "Me encanta la diversidad que se tratan en el libro."
+      content : "Me encanta la diversidad de temas que se tratan en el libro."
 
     # testimonial item loop
     - name : "Jessica J."
@@ -104,6 +104,12 @@ testimonial:
       designation : "CEO, Themefisher"
       image : "images/avater.png"
       content : "Me ha encantado, no solo por lo bien contando, también por los mensajes que deja y además las ilustraciones son chulísimas. ¡Enhorabuena!"
+
+  testimonial_site:
+    - text: "Reseñas en Goodreads"
+      logo: "goodreads_logo.svg"
+      logo_width: 300
+      link: "https://www.goodreads.com/book/show/56725665-descubriendo-a-enzo"
 
 ############################## Authors ##########################
 
