@@ -3,7 +3,7 @@ title: "¡Novedades!"
 date: 2020-12-20T10:00:00+02:00
 image: "images/blog/presentacion.jpg"
 description : "Presentación en Marbella"
-draft: false
+draft: true
 ---
 
 **¡Hola Mecenas!**

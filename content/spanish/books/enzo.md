@@ -9,7 +9,12 @@ Sus personajes rompen los clichés o estereotipos que generalmente siempre han e
 <br></br>
 A través de su nobleza, solidaridad e inocencia, nos acerca a distintas realidades sociales y nos enseña diferentes valores.
 <br></br>
-Entre los temas que se destacan: las personas con discapacidad, la realidad de las personas mayores, los desahucios o gente privada de su libertad entre otros."
+Entre los temas que se destacan: las personas con discapacidad, la realidad de las personas mayores, los desahucios o gente privada de su libertad entre otros.
+<br></br>
+[Aquí](https://www.behance.net/gallery/100351839/Descubriendo-a-Enzo) podrás ver algunas de las ilustraciones realizadas por
+Juanjo Jiménez y conocer más sobre el proceso creativo desarrollado
+para llevarlas a cabo.
+"
 
 sinopsis:
   enable: true  

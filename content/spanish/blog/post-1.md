@@ -3,7 +3,7 @@ title: "¡Novedades! 2.0"
 date: 2020-12-25T10:00:00+02:00
 image: "images/descubriendo.png"
 description : "Presentación en Málaga"
-draft: false
+draft: true
 ---
 
 **¡Hola SocialBookers!**
