@@ -6,7 +6,7 @@ publishDir = "social-books.github.io"
 # post excert
 summarylength = "20"
 # google analytics
-googleAnalytics = "G-2M6WVH8XP6"
+googleAnalytics = "UA-188241869-1"
 # disable language
 disableLanguages = [] # disable language from here
 defaultContentLanguage = "es"
